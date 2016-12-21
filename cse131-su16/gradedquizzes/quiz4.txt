@@ -1,0 +1,15 @@
+7/5/2016 23:00:30		Madeline McGraw	431546		
+"public static String Prompt (String username, int age) {
+	username = System.in.String(""Please enter your name: "");
+	age = System.in.Int(""Please enter your age: "");
+	if (age < 0) {
+		System.out.print(""Age cannot be negative, please enter your age: "" + age);
+	}
+	if (age >= 0) {
+		System.out.print(""Your name is "" + username + "", and you are "" + age + "" years old."");
+}
+}"		
+
+You should use a while loop instead of an if statement (-10)
+
+90 / 100

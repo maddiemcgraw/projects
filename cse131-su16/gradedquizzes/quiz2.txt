@@ -1,0 +1,33 @@
+6/21/2016 21:37:37		Madeline McGraw			
+
+"for(int x = 1; x<=9; x++) {
+		int m = 0;
+		if (x==9) {
+			m = x*4;
+			break;
+		}
+		else {
+			m = x*4;
+		}
+		System.out.print(m + "" "");
+	}"	
+    
+    "boolean Match;
+		if (x == z && y == z) {
+			Match = false;
+			System.out.println(""No Match"");
+		}
+		else if (x != z && y!= z) {
+			Match = false;
+			System.out.println(""No Match"");
+		}
+		else {
+			Match = true;
+			System.out.println(""Two Match"");
+		}"
+        
+Problem 1 works, but the if statement is not necessary.
+
+Problem 2 will fail if x and y are equal but z is not (-5)
+
+95 / 100

@@ -1,0 +1,8 @@
+6/13/2016 15:14:18		Madeline McGraw	431546		36, double	56, double	"abc9", string	"9abc", string	true, boolean	"int x = 7;
+int y = 2;
+x=10;
+boolean z;
+z = (x<y && y>x);
+System.out.println(z);"	int	double	string	boolean	string	
+
+Number 1 is an int (-5) 95 / 100									

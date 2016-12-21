@@ -1,0 +1,12 @@
+7/12/2016 22:32:03	Madeline McGraw	memcgraw@wustl.edu	
+"public static double circleArea(double r){
+
+        double circleArea = Math.Pi*(r) * (r);
+        return circleArea;
+    }"	
+    double ans = circleArea(5.2);	
+    FALSE	FALSE	TRUE	FALSE				
+    
+    Number 5 is false (-10)
+    
+    90 / 100
